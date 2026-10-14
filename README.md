@@ -4,7 +4,7 @@
 
 A Canvas bookmarklet for Lake Michigan College faculty. With one click, it summarizes each student's performance in a Canvas course and builds a ready-to-paste note for TargetX early alerts. It covers both full-time faculty, who use TargetX Faculty Alerts, and adjunct faculty, who use the Faculty Early Alert Form.
 
-**[Install TargetX Alert Notes](https://YOUR-GITHUB-USERNAME.github.io/targetx-alert-notes/)**
+**[Install TargetX Alert Notes](https://jmbenak71.github.io/targetx-alert-notes/)**
 
 ---
 
@@ -42,7 +42,7 @@ Last Canvas submission: 10/6/2026 (8 days ago)
 
 ## Installing
 
-1. Open the [install page](https://YOUR-GITHUB-USERNAME.github.io/targetx-alert-notes/) in a desktop browser.
+1. Open the [install page](https://jmbenak71.github.io/targetx-alert-notes/) in a desktop browser.
 2. Drag the **TargetX Alert Notes v1.1** button to your bookmarks bar. Delete any older version's bookmark.
 3. Open a Canvas course you teach and click the bookmark.
 
